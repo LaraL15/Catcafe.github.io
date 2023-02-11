@@ -1,5 +1,6 @@
 body { 
     background-color: antiquewhite;
+
 }
 
 ul {
@@ -24,3 +25,28 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
   }
+ 
+  img {
+    width: fit-content;
+    height: fit-content;
+    min-height: auto;
+    min-width: auto;
+    display: block;
+  }
+div p {
+
+width: auto;
+height: auto;
+left: 27px;
+top: 789px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
