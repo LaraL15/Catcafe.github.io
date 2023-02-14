@@ -21,20 +21,20 @@ li {
 li a {
     display: inline-block;
     color: white;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
  
   img {
-    width: fit-content;
-    height: fit-content;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
     min-height: auto;
     min-width: auto;
     display: block;
   }
-div p {
-
+div p section{
 width: auto;
 height: auto;
 left: 27px;
@@ -42,11 +42,13 @@ top: 789px;
 
 font-family: 'Inter';
 font-style: italic;
-font-weight: 600;
-font-size: 24px;
+font-weight: 800;
+font-size: 100px;
 line-height: 29px;
-text-align: center;
-
+display: block;
 color: #000000;
+}
 
+.center {
+  text-align: center;
 }

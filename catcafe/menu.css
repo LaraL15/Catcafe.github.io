@@ -1,7 +1,7 @@
 body { 
     background-color: antiquewhite;
 }
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ ul {
     overflow: hidden;
     float: right;
   }
-li {
+nav li  {
     display: inline;
 }
 .active { 
@@ -22,4 +22,11 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+  }
+
+  main ul {
+    list-style: none;
+    justify-content: center;
+    text-align: center;
+    text-justify: auto;
   }
