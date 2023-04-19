@@ -72,17 +72,17 @@ li a {
   color: white;
 } 
 
-div p section{
+div p main {
 width: auto;
 height: auto;
 left: 27px;
 top: 789px;
 
-font-family: 'Inter';
-font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
 font-weight: 800;
 font-size: 100px;
-line-height: 29px;
+line-height: 50px;
 display: block;
 color: #000000;
 }
