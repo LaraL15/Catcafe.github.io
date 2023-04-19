@@ -27,6 +27,8 @@ body {
 }
 .topnav {
   float: right;
+  position: fixed;
+  justify-content: space-between;
   overflow: hidden;
   background-color: #333;
 }
