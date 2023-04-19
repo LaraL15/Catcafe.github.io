@@ -9,11 +9,8 @@ body {
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://c.pxhere.com/photos/9e/73/cat_sweet_kitty_animals-974997.jpg!d");
-
-
-  height: 70%;
-
- 
+  height: 20%;
+  padding-top: 20%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -93,6 +90,6 @@ color: #000000;
   /*solution for creating text background found on StackOverflow thread*/
   display: table; 
   margin: 0px auto 0px auto; 
-  padding:55px; 
+  padding:40px; 
   font-size: 30px;
 }
