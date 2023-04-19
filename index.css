@@ -26,6 +26,7 @@ body {
   width: auto;
 }
 .topnav {
+  float: right;
   overflow: hidden;
   background-color: #333;
 }
