@@ -1,0 +1,26 @@
+body { 
+    background-color: antiquewhite;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    overflow: hidden;
+    float: right;
+  }
+li {
+    display: inline;
+}
+.active { 
+    background-color: rgb(66, 100, 66);
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
