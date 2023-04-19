@@ -90,4 +90,9 @@ color: #000000;
 .center {
   text-align: center;
   background-color: white;
+  /*solution for creating text background found on StackOverflow thread*/
+  display: table; 
+  margin: 0px auto 0px auto; 
+  padding:55px; 
+  font-size: 30px;
 }
