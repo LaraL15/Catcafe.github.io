@@ -29,4 +29,11 @@ li a {
     justify-content: center;
     text-align: center;
     text-justify: auto;
+  
+  background-color: white;
+  /*solution for creating text background found on StackOverflow thread*/
+  display: table; 
+  margin: 0px auto 0px auto; 
+  padding:40px; 
+  font-size: 30px;
   }
